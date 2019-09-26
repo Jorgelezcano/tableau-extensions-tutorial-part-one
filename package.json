@@ -1,0 +1,12 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "description": "extención parte1",
+  "main": "index.js",
+  "repository": "https://github.com/Jorgelezcano/tableau-extensions-tutorial-part-one.git",
+  "author": "jd249311@gmail.com",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
